@@ -19,12 +19,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://dev.to/luis_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="luis_g" height="30" width="40" /></a>
-  <a href="https://fb.com/@yodarha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@yodarha" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -72,12 +66,17 @@
   <a href="https://tryhackme.com/r/p/Anonymonkz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+  <a href="https://www.paypal.me/anonymouscrib36" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+  </a>
   <a href="https://dev.to/luis_g" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
   <a href="https://www.facebook.com/yodarha" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.twitch.tv/anonymouscrib" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
 </div>
 
