@@ -29,3 +29,35 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anonymonkz&show_icons=true&theme=tokyonight&locale=en" alt="anonymonkz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anonymonkz&theme=dark" alt="anonymonkz" /></p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/anonymonkz/anonymonkz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/regret036">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=regret036&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<img align="left" height="300" src="https://scontent.fmnl9-2.fna.fbcdn.net/v/t39.30808-6/470584036_8968387359864387_6554604721277941487_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=111&ccb=1-7&_nc_sid=669761&_nc_eui2=AeGakjij3KxoInF46tD9eUFzp4x4jP8TbFenjHiM_xNsV1oc0bN_7ERT41QeAqb-PF6EwUGXWAfN7w3SzdgKih0D&_nc_ohc=JhFh89MqrTsQ7kNvgGzUM3g&_nc_zt=23&_nc_ht=scontent.fmnl9-2.fna&_nc_gid=AXWgUgqellddjK6DUi0dCNB&oh=00_AYAHsu0nQQwyjmC96NysgR8FfX-r1Y72Y9W5qyJMI_wTrA&oe=6768A83D"  />
+
+###
+
+<img align="left" height="200" src="https://scontent.fmnl9-4.fna.fbcdn.net/v/t39.30808-6/469787162_8923785650991225_2822922797298535519_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=669761&_nc_eui2=AeFMZ13bZhDG1mYmzwvaZpFMvmTcWGjROL6-ZNxYaNE4vie5yAFAKOKIaP8tnzjxB39_FPA6ZlYUvPpT7Teq1X8d&_nc_ohc=lgLsMxRTWMsQ7kNvgEpCABv&_nc_zt=23&_nc_ht=scontent.fmnl9-4.fna&_nc_gid=AVbJgcknk3qD2zg9UEIsIpy&oh=00_AYBBEaYyLBqhENCQhhryOGP-TvVAxrkJcAwilYkHj58r-g&oe=6768F85F"  />
+
+###
+
+<img align="right" height="300" src="https://scontent.fmnl9-3.fna.fbcdn.net/v/t39.30808-6/281492677_5184818864887941_8634497323057006023_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=669761&_nc_eui2=AeF4ockM_PYqa5Rgg8hxFcaqyZg30u7Px-HJmDfS7s_H4YKVe0tmdbg4vdZ5S72qczhzozE8KoN5fjpGwUzzkGRP&_nc_ohc=ZQue8MvIk4kQ7kNvgFBhZtA&_nc_zt=23&_nc_ht=scontent.fmnl9-3.fna&_nc_gid=AaLlSr8NVLJ_ePS9YDHRU29&oh=00_AYAkqJ8a9iW-bwDOPEoWcpRtPlJyu_zq8t5wGGvmNu18cQ&oe=6768C2F8"  />
+
+###
+
+<img align="right" height="200" src="https://scontent.fmnl9-6.fna.fbcdn.net/v/t39.30808-6/469668685_8923785550991235_4844421550488400737_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=669761&_nc_eui2=AeHRSqDzjY0LfbpMg2MwFhnJYeU6yY55iKdh5TrJjnmIp-UcEfIrFjunyq45w9dNG2HSc-iiR941MBPnUtFCR_c0&_nc_ohc=iiF3vsVN0jQQ7kNvgGBeMFl&_nc_zt=23&_nc_ht=scontent.fmnl9-6.fna&_nc_gid=AVbJgcknk3qD2zg9UEIsIpy&oh=00_AYCCYo0sCgdfwZpINq3oC0Ndzpefoo5kUEYnxscvkHe2yw&oe=6768CBA3"  />
+
+###
