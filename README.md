@@ -88,12 +88,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/regret036">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=regret036&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
 
 <img align="left" height="300" src="https://scontent.fmnl9-2.fna.fbcdn.net/v/t39.30808-6/470584036_8968387359864387_6554604721277941487_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=111&ccb=1-7&_nc_sid=669761&_nc_eui2=AeGakjij3KxoInF46tD9eUFzp4x4jP8TbFenjHiM_xNsV1oc0bN_7ERT41QeAqb-PF6EwUGXWAfN7w3SzdgKih0D&_nc_ohc=JhFh89MqrTsQ7kNvgGzUM3g&_nc_zt=23&_nc_ht=scontent.fmnl9-2.fna&_nc_gid=AXWgUgqellddjK6DUi0dCNB&oh=00_AYAHsu0nQQwyjmC96NysgR8FfX-r1Y72Y9W5qyJMI_wTrA&oe=6768A83D"  />
