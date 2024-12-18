@@ -85,8 +85,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/anonymonkz/anonymonkz/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
@@ -112,3 +110,8 @@
 <img align="right" height="200" src="https://scontent.fmnl9-6.fna.fbcdn.net/v/t39.30808-6/469668685_8923785550991235_4844421550488400737_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=669761&_nc_eui2=AeHRSqDzjY0LfbpMg2MwFhnJYeU6yY55iKdh5TrJjnmIp-UcEfIrFjunyq45w9dNG2HSc-iiR941MBPnUtFCR_c0&_nc_ohc=iiF3vsVN0jQQ7kNvgGBeMFl&_nc_zt=23&_nc_ht=scontent.fmnl9-6.fna&_nc_gid=AVbJgcknk3qD2zg9UEIsIpy&oh=00_AYCCYo0sCgdfwZpINq3oC0Ndzpefoo5kUEYnxscvkHe2yw&oe=6768CBA3"  />
 
 ###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonymonkz&show_icons=true&locale=en&layout=compact" alt="anonymonkz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anonymonkz&show_icons=true&locale=en" alt="anonymonkz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anonymonkz&" alt="anonymonkz" /></p>
